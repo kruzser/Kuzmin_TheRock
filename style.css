@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: rgb(194, 180, 120);
+    padding-bottom: 1px;
+}
+
+
+b {
+    border: dashed black 3px;
+}
+
